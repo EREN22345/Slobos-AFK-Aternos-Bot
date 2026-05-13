@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "ZynexAFKK",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "BlazeSMPxyz.aternos.me.aternos.me",
+    "port": 51532,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
